@@ -13,8 +13,8 @@
 ***
 
 ## Table of Contents
-- Message
-- Blog
+- [Message](https://github.com/heerokim/Portfolio-Massage.git)
+- [Blog](https://github.com/heerokim/Portfolio-BLOG.git)
 
 ***
 
@@ -31,3 +31,12 @@
 1. 会員登録をすると、DBに情報が保存されます。
 2. ログイン後、希望する会員を選択してメッセージを作成、転送します。
 3. 受信メッセージを確認、返信、重要メッセージの設定などの管理ができます
+
+
+
+
+
+
+***
+
+## [Blog](https://github.com/heerokim/Portfolio-BLOG.git)
