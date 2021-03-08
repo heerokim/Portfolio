@@ -24,6 +24,8 @@
 
 -登録した会員同士でメッセージをやり取りできる機能です。会員を選んでメッセージをやり取りしたり、受信メッセージを管理することができます。
 
+<img width="803" alt="Screen Shot 2021-02-19 at 10 46 13 PM" src="https://user-images.githubusercontent.com/70967960/110199359-671e4600-7e9b-11eb-9555-fe47cc7fefea.png">
+
 ### 詳しく
 
 -このプロジェクトはSpringフレームワークを使用し、Javascript、Tomcat、Oracle SQL DBで構成構成されており、以下のように動作します。
